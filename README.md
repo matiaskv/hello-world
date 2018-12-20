@@ -1,2 +1,4 @@
 # hello-world
-Testing repository
+Hi humans!
+
+Some C++ here in the future maybe...
